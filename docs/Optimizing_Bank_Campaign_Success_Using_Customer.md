@@ -220,7 +220,7 @@ The EDA phase provided valuable insights into:
 
 Data cleaning and transformation is a critical step in preparing the dataset for analysis, visualization, and machine learning modeling.
 
-![Descriptive Alt Text](..\images\2.png)
+![Descriptive Alt Text](../images/2.png)
 
 ### Cleaning Procedures
 
@@ -247,7 +247,7 @@ These preprocessing steps ensured that the dataset became accurate, consistent, 
 ### Dashboard Design & Business Insights
 
 
-![Descriptive Alt Text](..\images\3.png)
+![Descriptive Alt Text](../images/3.png)
 
 
 #### Overall Dashboard Purpose
@@ -293,7 +293,7 @@ The dashboard was developed to analyze customer behavior, financial status, and 
 **Insight & Business Use:** The response rate generally decreased as contact frequency increased, indicating that excessive contact may negatively affect customer engagement. This insight helps businesses determine the optimal number of customer interactions and avoid over-contacting customers during campaigns.
 
 
-![Descriptive Alt Text](..\images\4.png)
+![Descriptive Alt Text](../images/4.png)
 
 
 #### Post-Call Insight: Duration vs Response Behavior
@@ -304,7 +304,7 @@ The dashboard was developed to analyze customer behavior, financial status, and 
 
 ---
 
-![Descriptive Alt Text](..\images\5.png)
+![Descriptive Alt Text](../images/5.png)
 
 
 #### Chart 1: Job Title by Customers
@@ -345,7 +345,7 @@ The dashboard was developed to analyze customer behavior, financial status, and 
 
 ---
 
-![Descriptive Alt Text](..\images\6.png)
+![Descriptive Alt Text](../images/6.png)
 
 
 #### Chart 1: Response Rate by Contact Recency and Previous Campaign Outcome
@@ -368,7 +368,7 @@ The dashboard was developed to analyze customer behavior, financial status, and 
 
 ---
 
-![Descriptive Alt Text](..\images\7.png)
+![Descriptive Alt Text](../images/7.png)
 
 #### Dashboard Purpose
 
@@ -403,7 +403,7 @@ Examines customer responses according to account balance categories. Medium and 
 
 ---
 
-![Descriptive Alt Text](..\images\8.png)
+![Descriptive Alt Text](../images/8.png)
 
 #### Dashboard Purpose
 
@@ -480,7 +480,7 @@ Random Forest was selected because it provides stronger predictive performance a
 
 Prediction analysis is a machine learning technique used to forecast future outcomes using historical customer and campaign data.
 
-![Descriptive Alt Text](..\images\9.png)
+![Descriptive Alt Text](../images/9.png)
 
 
 #### Preparing the Prediction Model
@@ -504,7 +504,7 @@ Logistic Regression is a classification algorithm used to predict binary outcome
 In this project, the model predicts customer response based on variables such as:
 Call duration, Balance, Contact type, Previous campaign outcome, Age group, Job category etc..
 
-![Descriptive Alt Text](..\images\10.png)
+![Descriptive Alt Text](../images/10.png)
 
 
 #### Training Phase
@@ -530,7 +530,7 @@ Logistic Regression provided clear and interpretable insights into how customer 
 Random Forest is an ensemble machine learning algorithm that builds multiple decision trees and combines their predictions to improve accuracy and stability.
 In this project, Random Forest was used to predict customer responses using variables such as: Duration, Balance, Month, Previous campaign outcome, Contact type, Economic indicators etc…
 
-![Descriptive Alt Text](..\images\Picture1.png)
+![Descriptive Alt Text](../images/Picture1.png)
 
 
 #### Training Phase
@@ -609,7 +609,7 @@ Random Forest also handles complex and non-linear relationships between variable
 
 The feature importance chart shows the variables that had the strongest influence on predicting customer responses.
 
-![Descriptive Alt Text](..\images\11.png)
+![Descriptive Alt Text](../images/11.png)
 
 
 #### Most Important Features
@@ -644,8 +644,8 @@ Clustering is an unsupervised machine learning technique used to group customers
 In this project, clustering was used to identify customer segments based on:
 Age group, Job category, Balance group, Contact behavior, Previous campaign outcomes and Response patterns
 
-![Descriptive Alt Text](..\images\12.png)
-![Descriptive Alt Text](..\images\Picture2.png)
+![Descriptive Alt Text](../images/12.png)
+![Descriptive Alt Text](../images/Picture2.png)
 
 
 
@@ -668,7 +668,7 @@ These steps helped identify meaningful customer segments and hidden behavioral p
 
 The clustering analysis revealed clear differences between customer groups based on age, balance, campaign activity, previous contact history, and economic indicators.
 
-![Descriptive Alt Text](..\images\13.png)
+![Descriptive Alt Text](../images/13.png)
 
 
 #### Cluster 0 – Standard Customers (Largest Group)
