@@ -159,7 +159,7 @@ The selection of this dataset enabled a comprehensive analysis of customer behav
 
 The dataset used in this project contains customer demographic information, financial attributes, marketing campaign details, and economic indicators related to direct bank marketing campaigns.
 
-![Descriptive Alt Text](..\images\1.png)
+![Descriptive Alt Text](../images/1.png)
 
 | Column Name | Description | Type | Use |
 |---|---|---|---|
